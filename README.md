@@ -1,7 +1,8 @@
 BinSketch algorithm takes high dimensional binary data set as input and outputs its low-dimensional binary sketch such that using the low-dimensional sketch we can accurately estimate the similarities (Inner product, Jaccard similarity, Cosine similarity, and Hamming distance) between the original data points.  The implementation is based on the paper “Efficient Sketching Algorithm for Sparse Binary Data” due to Pratap et al. 
 
 Bibtex entry is as follows:
-'''@inproceedings{binsketch,
+
+@inproceedings{binsketch,
   author    = {Rameshwar Pratap and
                Debajyoti Bera and
                Karthik Revanuru},
@@ -17,7 +18,7 @@ Bibtex entry is as follows:
   biburl    = {https://dblp.org/rec/conf/icdm/PratapBR19.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-'''
+
 
 
 Please cite the paper if you wish to use this implementation. 
