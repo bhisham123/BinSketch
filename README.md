@@ -2,9 +2,7 @@ BinSketch algorithm takes high dimensional binary data set as input and outputs 
 
 Bibtex entry is as follows:   
 @inproceedings{binsketch,  
-  author    = {Rameshwar Pratap and  
-               Debajyoti Bera and  
-               Karthik Revanuru},  
+  author    = {Rameshwar Pratap and Debajyoti Bera and Karthik Revanuru},   
   title     = {Efficient Sketching Algorithm for Sparse Binary Data},  
   booktitle = {2019 {IEEE} International Conference on Data Mining, {ICDM} 2019,  
                Beijing, China, November 8-11, 2019},  
